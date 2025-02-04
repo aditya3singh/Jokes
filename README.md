@@ -69,3 +69,5 @@ getFirstJoke: Fetches the initial joke when the component mounts.
 
 Rendering: Displays the joke setup, punchline, and a button to fetch a new joke.
 
+![image](https://github.com/user-attachments/assets/55c584cd-3010-4a0a-99bf-34c731a7df62)
+
